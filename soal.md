@@ -51,7 +51,7 @@
 
 ## 7. Sintaks Blade untuk mencetak data variabel adalah:
 - [x] a. {{ $data }}  
-- [ ] b. <?php echo $data ?>  
+- [ ] b. @<?php echo $data ?>  
 - [ ] c. print($data)  
 - [ ] d. @echo($data)  
 
